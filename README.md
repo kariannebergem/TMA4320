@@ -1,3 +1,3 @@
-Projects in the course TMA4320.
+Projects in the course TMA4320. Final grade: A
 
 
